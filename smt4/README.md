@@ -1,11 +1,13 @@
-Minggu pertama (22 Feb 2021):
+# Catatan Perkuliahan
 
-  Jaringan Komputer :
+## Minggu pertama (22 Feb 2021):
+
+>Jaringan Komputer :
   
-  Kecerdasan Buatan :
+> Kecerdasan Buatan :
   
-  Pengembangan Aplikasi Bergerak :
+> Pengembangan Aplikasi Bergerak :
   
-  Pemrograman Web :
+> Pemrograman Web :
   
-  Rekayasa Perangkat Lunak :
+> Rekayasa Perangkat Lunak :
