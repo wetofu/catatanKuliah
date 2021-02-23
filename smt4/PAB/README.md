@@ -21,7 +21,7 @@ Asynchronous
     * Dijadikan bahan tanya jawab (presentasi) pada sesi synchronous
 3. Mengerjakan project kelompok
 ----
-### Tugas project
+## Tugas project
 
 Kelompok
 
@@ -52,8 +52,6 @@ Alternatif lain yang bisa digunakan :
 
 * AppInventor 	http://www.appinventor.org/  
 
-> Minggu ke-2 (22 Feb 2021)
-
 1. Mahasiswa memetakan peluang karir sebagai mobile app developer beserta skill yang dibutuhkan.
     * Lakukan searching di sejumlah website untuk mencari informasi lowongan karir sebagai mobile app development
     * Buat rangkuman yang mencakup beberapa hal, misalnya : lokasi kota tampat lowongan, skill-skill yang dibutuhkan untuk mengisi lowongan tersebut, informasi gaji ditawarkan (jika ada)
@@ -81,3 +79,35 @@ Alternatif lain :
 * Flutter https://flutter.dev/
 * ReactNative https://reactnative.dev/
 * NativeScript https://nativescript.org/
+
+## Project Kelompok
+
+Bentuk kelompok dengan anggota maksimal 4 orang
+
+Pilih 1 (satu) topik permasalahan dalam kehidupan sehari-hari untuk diusulkan penyelesaiannya melalui pengembangan sebuah aplikasi mobile
+
+Output : aplikasi mobile, laporan, dan poster
+
+Jadwal presentasi tugas proyek kelompok
+
+Minggu ke-4 (15 - 19 Maret 2021) : presentasi studi kasus yang dipilih
+
+Format laporan yang dikumpulkan :
+1. Deskripsi permasalahan (studi kasus) yang diangkat
+2. Penjelasan mengenai aplikasi yang akan dibuat atau metode penyelesaian masalah
+    * Platform (jenis OS) dan tools yang akan digunakan
+    * Rancangan aplikasi (penjelasan menu / fitur secara umum)
+3. Pembagian tugas anggota kelompok
+    * Di akhir project, apabila dirasa ada anggota yang kurang berkontribusi (titip jeneng tok) boleh ditulis keterangan "kurang berkontribusi"
+    * Lakukan pembagian kerja dengan tepat sesuai kemampuan anggota kelompok
+
+Minggu ke-10 : presentasi perkembangan proyek
+
+Minggu ke -16 : presentasi hasil dan demo program
+
+Isi poster :
+1. Screenshoot aplikasi
+2. Deskripsi singkat permasalahan
+3. Identitas kelompok
+4. Deskripsi fitur/menu secara singkat
+Poster dibuat dibuat dalam bentuk digital (format PNG/JPG) dengan ukuran kertas A3 : 29.7 cm x 42 cm
