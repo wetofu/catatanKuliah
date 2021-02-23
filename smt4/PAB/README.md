@@ -1,7 +1,4 @@
-# Catatan Perkuliahan
-
-
-## Mobile App Development :
+# Mobile App Development :
 
 > Minggu ke-1 (22 Feb 2021):
 
